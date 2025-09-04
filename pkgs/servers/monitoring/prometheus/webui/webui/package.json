@@ -20,7 +20,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.7.1",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "@nexucis/fuzzy": "^0.3.0",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.0",
     "codemirror-promql": "^0.17.0",
     "css.escape": "^1.5.1",
     "downshift": "^3.4.8",
@@ -90,7 +90,7 @@
     "jest-fetch-mock": "^3.0.3",
     "mutationobserver-shim": "^0.3.7",
     "prettier": "^2.3.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.1",
     "sinon": "^9.0.3",
     "typescript": "^4.4.2"
   },
