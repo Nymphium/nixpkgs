@@ -68,7 +68,7 @@
     "passport-azure-oauth2": "*",
     "jwt-simple": "*",
     "passport-saml": "*",
-    "ws": "5.2.3",
+    "ws": "5.2.4",
     "cbor": "5.2.0",
     "@yetzt/nedb": "*",
     "https": "*",
